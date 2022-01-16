@@ -1,0 +1,191 @@
+{
+  "welcome": "Welcome to Apurini.",
+  "name": "name",
+  "email": "Email",
+  "password": "Password",
+  "phone": "Phone",
+  "message": "Message",
+  "apurini": "Apurini",
+  "gallery": "Galery",
+  "cancel": "Cancel",
+  "getStarted": "Get Started",
+  "top": "Top",
+  "howItWorks": "How It Works",
+  "whoWeAre": "Who We Are",
+  "logout":"Logout",
+  "howItWorksDescription": "Here we way how it works. We say what are taskers and job posters",
+  "whoWeAreDescription": "Here we say who we are.",
+  "contactDescription": "here you can find our contact detail and our privacy policy and a bunch of other stuff",
+  "header": {
+    "navigation-title": "Header",
+    "title": "We Make Your Life Happier By Saving Your Time",
+    "paragraph": "We Know The Value Of Time, Let Us Take Care Of Your Needs",
+    "appMessage": "Try our mobile app. It's free to download."
+  },
+  "navigation": {
+
+  },
+  "about": {
+    "navigation-title": "About",
+    "title": "What We Do?",
+    "paragraph": " We create a trustworthy community where you get connected with vetted Taskers with right skill in your neighborhood to get your job done. You get help with peace of mind at your fingertips when you need it. From simple tasks like cleaning and shopping to handyman services, Apurini instantly connects you with the right Tasker.",
+    "title2": "Why Choose Us?",
+    "why": [
+      "Affordable and transparent price.",
+      "A rating and review system to find the best person for the task. ",
+      "Taskers are pre-screened, trustable, and sourced from the local community.",
+      "Liablity insurance provides extra security to customers."
+    ]
+  },
+  "services": {
+    "navigation-title": "Services",
+    "ourServices": "Our Services",
+    "ourServiceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.",
+    "contents": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      }
+    ]
+  },
+  "testimonials": {
+    "navigation-title": "Testimonials",
+    "content": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      }
+    ]
+  },
+  "team": {
+    "navigation-title": "Team",
+    "meetTheTeam": "Meet The Team",
+    "description": "Apurini is a small team for now",
+    "team": [
+      {
+        "img": "./img/team/developer2.svg",
+        "name": "Az",
+        "job": "The mystical backend wisperer",
+        "email": "az@apurini.io"
+      },
+      {
+        "img": "./img/team/operations1.svg",
+        "name": "Riku",
+        "job": "Doer of harder jobs",
+        "email": "riku@apurini.io"
+      },
+      {
+        "img": "./img/team/operations2.svg",
+        "name": "Mehdi",
+        "job": "Nobody knows what he does!",
+        "email": "Mehdi@apurini.io"
+      }
+    ]
+  },
+  "contact": {
+    "navigation-title": "Contact",
+    "ourAddress": "Tampere",
+    "address": "Address",
+    "phone": "+1 123 456 1234",
+    "email": "info@apurini.io",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "getInTouch": "Get In Touch"
+  },
+  "features": {
+    "navigation-title": "Features",
+    "content": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      }
+    ]
+  },
+  "user": {
+    "user-title": "User",
+    "login-title": "Login",
+    "login": "Login",
+    "loginError": "Login process failed because:",
+    "onBoarding": {
+      "onBoarding-title": "Sign Up",
+      "forward": "Next",
+      "backward": "Back",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email":"Email",
+      "city": "City"
+    },
+    "notAMember": "Not a member yet?",
+    "wantToTry": "Want to try?",
+    "alreadyAMember" : "Already a member?"
+  }
+}
