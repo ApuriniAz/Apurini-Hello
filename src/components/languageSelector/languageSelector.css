@@ -1,0 +1,29 @@
+.apurini-language-selector {
+  min-width: 8rem;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  color: #555;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0px 20px;
+}
+
+.apurini-language-selector .react-select__control {
+  border: 0;
+  border-radius: 0;
+}
+
+.apurini-language-selector .react-select__indicator-separator {
+  display: none;
+}
+
+.apurini-language-selector .react-select__indicatorContainer {
+  padding: none;
+}
+
+.apurini-language-selector .react-select__menu {
+  border-radius: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 100;
+}

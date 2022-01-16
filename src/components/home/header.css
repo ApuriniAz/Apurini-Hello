@@ -1,0 +1,73 @@
+.intro {
+  display: table;
+  width: 100%;
+  padding: 0;
+  background: url(../../img/intro-bg.jpg) center center no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.intro .overlay {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.intro h1 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 65px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.intro h2 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.intro h1 span {
+  font-weight: 800;
+  color: #5ca9fb;
+}
+
+.intro p {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+
+header .intro-text {
+  padding-top: 180px;
+  padding-bottom: 120px;
+  text-align: center;
+}
+
+.intro-buttons {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.onBorading-group {
+  margin: 2rem 0px;
+}
+
+.login-group {
+  margin: 2rem 0px;
+}
+
+.header-button {
+  min-width: 6rem;
+}

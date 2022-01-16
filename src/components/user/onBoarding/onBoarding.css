@@ -1,0 +1,12 @@
+.on-boarding-button-block {
+  display: flex;
+}
+
+.onBoarding-page-change-button {
+  margin: 1rem 1rem 0px 0px;
+}
+
+.to-right {
+  justify-content: flex-end;
+  margin-left: auto;
+}
