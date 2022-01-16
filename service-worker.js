@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Apurini-Hello/precache-manifest.ea54449317328194fc1fdcb540873023.js"
+  "/Apurini-Hello/precache-manifest.82033808738cca00aedac70f60fdbd19.js"
 );
 
 workbox.clientsClaim();
