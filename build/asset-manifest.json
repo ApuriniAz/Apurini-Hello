@@ -1,16 +1,16 @@
 {
-  "main.css": "/Apurini-Hello/static/css/main.9f5fbb62.chunk.css",
-  "main.js": "/Apurini-Hello/static/js/main.96c1cfe2.chunk.js",
-  "main.js.map": "/Apurini-Hello/static/js/main.96c1cfe2.chunk.js.map",
+  "main.css": "/Apurini-Hello/static/css/main.5b5fcedb.chunk.css",
+  "main.js": "/Apurini-Hello/static/js/main.41803e58.chunk.js",
+  "main.js.map": "/Apurini-Hello/static/js/main.41803e58.chunk.js.map",
   "runtime~main.js": "/Apurini-Hello/static/js/runtime~main.8d9ed698.js",
   "runtime~main.js.map": "/Apurini-Hello/static/js/runtime~main.8d9ed698.js.map",
   "static/css/2.77748198.chunk.css": "/Apurini-Hello/static/css/2.77748198.chunk.css",
-  "static/js/2.a9480199.chunk.js": "/Apurini-Hello/static/js/2.a9480199.chunk.js",
-  "static/js/2.a9480199.chunk.js.map": "/Apurini-Hello/static/js/2.a9480199.chunk.js.map",
+  "static/js/2.113e03cd.chunk.js": "/Apurini-Hello/static/js/2.113e03cd.chunk.js",
+  "static/js/2.113e03cd.chunk.js.map": "/Apurini-Hello/static/js/2.113e03cd.chunk.js.map",
   "index.html": "/Apurini-Hello/index.html",
-  "precache-manifest.47af457576a179fabe3483e226fa2ab0.js": "/Apurini-Hello/precache-manifest.47af457576a179fabe3483e226fa2ab0.js",
+  "precache-manifest.ea54449317328194fc1fdcb540873023.js": "/Apurini-Hello/precache-manifest.ea54449317328194fc1fdcb540873023.js",
   "service-worker.js": "/Apurini-Hello/service-worker.js",
   "static/css/2.77748198.chunk.css.map": "/Apurini-Hello/static/css/2.77748198.chunk.css.map",
-  "static/css/main.9f5fbb62.chunk.css.map": "/Apurini-Hello/static/css/main.9f5fbb62.chunk.css.map",
+  "static/css/main.5b5fcedb.chunk.css.map": "/Apurini-Hello/static/css/main.5b5fcedb.chunk.css.map",
   "static/media/header.css": "/Apurini-Hello/static/media/intro-bg.e247e237.jpg"
 }

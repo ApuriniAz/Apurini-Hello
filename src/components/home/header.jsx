@@ -1,13 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Container, Row, Col, Button } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 import "./header.css";
 
 import i18n from "../../i18n";
-import { useAuthState } from "../../contexts/authContext";
 
 function Header(props) {
   const { t } = props;
-  const { userDetails, loading, errorMessage } = useAuthState();
 
   const currentLanguage = i18n.language;
   const [badgeLanguage, setBadgeLanguage] = useState("en");
@@ -39,25 +37,6 @@ function Header(props) {
                     className='app-store-badge-img'
                   ></img>
                 </a>
-              </Col>
-              <Col md='4' className='intro-buttons'>
-                {userDetails && !loading && !errorMessage ? null : (
-                  <>
-                    <div className='onBorading-group'>
-                      <h2>{t("user.wantToTry")}</h2>
-                      <Button className='header-button' color='light' href='./user?getOnBoard=true'>
-                        {t("user.onBoarding.onBoarding-title")}
-                      </Button>
-                    </div>
-
-                    <div className='login-group'>
-                      <h2>{t("user.alreadyAMember")}</h2>
-                      <Button className='header-button' color='light' href='./user'>
-                        {t("user.login")}
-                      </Button>
-                    </div>
-                  </>
-                )}
               </Col>
             </Row>
           </Container>
