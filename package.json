@@ -4,13 +4,13 @@
   "author": "Apurini Team",
   "private": true,
   "description": "Sohvalta työpaikalle",
+  "homepage": "https://apurinioy.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^5.1.2",
     "dotenv": "^6.0.0",
-    "gh-pages": "^3.2.3",
     "i18next": "^19.9.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -18,13 +18,14 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "^2.0.5",
     "react-select": "^4.3.1",
-    "reactstrap": "^8.10.0",
-    "save-dev": "0.0.1-security"
+    "reactstrap": "^8.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
