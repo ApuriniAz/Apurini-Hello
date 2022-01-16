@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import React, { useState, useEffect } from "react";
-import { Switch, Route } from "react-router-dom";
+import { Route } from "react-router-dom";
 
 import { withTranslation } from "react-i18next";
 import i18n from "./i18n.js";
@@ -34,11 +34,9 @@ function App({ t }) {
   return (
     <>
       <Navigation t={t} setLanguage={setLanguage} currentLanguage={language} languageOptions={languageOptions} />
-      <Switch>
         <Route exact path='/'>
           <Home t={t} />
         </Route>
-      </Switch>
     </>
   );
 }

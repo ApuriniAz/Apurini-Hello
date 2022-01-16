@@ -2,7 +2,7 @@ import React from "react";
 import About from './about.jsx'
 import Header from './header.jsx'
 import Services from './services.jsx'
-import Team from './team.jsx'
+// import Team from './team.jsx'
 import Contact from './contact.jsx'
 
 import "./home.css";
