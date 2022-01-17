@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a98e25f76e09352692da",
+    "revision": "18b4ca9c8dacf50ef142",
     "url": "/Apurini-Hello/static/css/main.2c5f259c.chunk.css"
   },
   {
-    "revision": "a98e25f76e09352692da",
-    "url": "/Apurini-Hello/static/js/main.f7dc5bec.chunk.js"
+    "revision": "18b4ca9c8dacf50ef142",
+    "url": "/Apurini-Hello/static/js/main.d0c55011.chunk.js"
   },
   {
     "revision": "94d2bf4fa291c4e40f1c",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Apurini-Hello/static/media/intro-bg.e247e237.jpg"
   },
   {
-    "revision": "28c47733aab038121b721e503e58a9f9",
+    "revision": "4786dc28068b5850fd49c9188a7890d3",
     "url": "/Apurini-Hello/index.html"
   }
 ];

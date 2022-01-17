@@ -34,7 +34,7 @@ function App({ t }) {
   return (
     <>
       <Navigation t={t} setLanguage={setLanguage} currentLanguage={language} languageOptions={languageOptions} />
-        <Route exact path='/'>
+        <Route exact path='.'>
           <Home t={t} />
         </Route>
     </>
