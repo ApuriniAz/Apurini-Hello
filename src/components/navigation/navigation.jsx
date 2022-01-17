@@ -12,7 +12,7 @@ function Navigation({ t, languageOptions, setLanguage, currentLanguage }) {
   return (
     <div>
       <Navbar color='light' className='navigation' light expand='md'>
-        <NavbarBrand className='navigation-brand' href='.'>
+        <NavbarBrand className='navigation-brand' href='./'>
           {t("apurini")}
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
