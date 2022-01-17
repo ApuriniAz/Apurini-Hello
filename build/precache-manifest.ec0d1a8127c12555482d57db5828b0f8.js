@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "69e03746f43adcb69a8a",
-    "url": "/Apurini-Hello/static/css/main.5b5fcedb.chunk.css"
+    "revision": "a98e25f76e09352692da",
+    "url": "/Apurini-Hello/static/css/main.2c5f259c.chunk.css"
   },
   {
-    "revision": "69e03746f43adcb69a8a",
-    "url": "/Apurini-Hello/static/js/main.ba25c612.chunk.js"
+    "revision": "a98e25f76e09352692da",
+    "url": "/Apurini-Hello/static/js/main.f7dc5bec.chunk.js"
   },
   {
     "revision": "94d2bf4fa291c4e40f1c",
     "url": "/Apurini-Hello/static/js/runtime~main.8d9ed698.js"
   },
   {
-    "revision": "47ce9c71a3a6a90f34b4",
-    "url": "/Apurini-Hello/static/css/2.9cc3a0ef.chunk.css"
+    "revision": "d09a2eed66ca4e87b518",
+    "url": "/Apurini-Hello/static/css/2.33a71be8.chunk.css"
   },
   {
-    "revision": "47ce9c71a3a6a90f34b4",
+    "revision": "d09a2eed66ca4e87b518",
     "url": "/Apurini-Hello/static/js/2.ac8562e0.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Apurini-Hello/static/media/intro-bg.e247e237.jpg"
   },
   {
-    "revision": "3f5cd4dce6daaa048e6f50d773528a13",
+    "revision": "28c47733aab038121b721e503e58a9f9",
     "url": "/Apurini-Hello/index.html"
   }
 ];
